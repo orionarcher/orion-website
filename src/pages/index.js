@@ -37,15 +37,20 @@ export default ({ data }) => {
           </h1>
           <p>
             <i>
-              {occupation} by day,&nbsp;
-              {dark ? `Imperial enforcer by night` : `Rebel scum by night`}
+              Computational Chemistry,&nbsp;
+              {dark ? `Materials Discovery` : `Materials Discovery`}
             </i>
+          </p>
+          <p>
+            <b>
+              This site is unfinished, please forgive the star wars theming 🙂
+            </b>
           </p>
         </Container>
         <hr className="my-3 w-25" />
         <div className="d-md-inline-flex icons-container">
           <a
-            href="https://www.github.com"
+            href="https://github.com/orioncohen"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -56,7 +61,7 @@ export default ({ data }) => {
             />
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/orion-cohen-2b5462188/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -66,7 +71,7 @@ export default ({ data }) => {
               title="LinkedIn"
             />
           </a>
-          <a
+          {/* <a
             href="https://www.freecodecamp.org"
             target="_blank"
             rel="noopener noreferrer"
@@ -76,8 +81,8 @@ export default ({ data }) => {
               className="icons fcc"
               title="FreeCodeCamp"
             />
-          </a>
-          <a
+          </a> */}
+          {/* <a
             href="https://www.hackerrank.com/"
             target="_blank"
             rel="noopener noreferrer"
@@ -87,9 +92,9 @@ export default ({ data }) => {
               className="icons hr"
               title="Hackerrank"
             />
-          </a>
+          </a> */}
           <a
-            href="mailto:johndoe@gmail.com"
+            href="mailto:orion@lbl.gov"
             target="_blank"
             rel="noopener noreferrer"
           >

@@ -30,9 +30,9 @@ class ThemeProvider extends Component {
   toggleDark = () => {
     let dark = !this.state.dark
     this.setState({ dark })
-    vaderAudio.stop()
-    r2d2Audio.stop()
-    dark ? vaderAudio.play() : r2d2Audio.play()
+    // vaderAudio.stop()
+    // r2d2Audio.stop()
+    // dark ? vaderAudio.play() : r2d2Audio.play()
   }
 
   render() {
