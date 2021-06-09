@@ -43,7 +43,7 @@ export default ({ data }) => {
           </p>
           <p>
             <b>
-              This site is unfinished, please forgive the star wars theming 🙂
+              This site is under construction 🙂
             </b>
           </p>
         </Container>
