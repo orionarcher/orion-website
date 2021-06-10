@@ -49,8 +49,8 @@ export default ({ data }) => {
             ))}
           </p>
           <p className="i-5 mt-4 pt-2">
-            Hi there! My name is <b>{`${author}`}</b>. I am a
-            Graduate Student in the &nbsp;
+            Hi there! My name is <b>{`${author}`}</b>. I am a Physical Chemistry
+            graduate student in the&nbsp;
             <a
               href="https://perssongroup.lbl.gov/"
               target="_blank"
@@ -58,7 +58,7 @@ export default ({ data }) => {
             >
             Persson Group
             </a>
-            &nbsp; at UC Berkeley &amp; the Lawrence Berkeley National Laboratory.
+            &nbsp;at UC Berkeley &amp; the Lawrence Berkeley National Laboratory.
             I use high-throughput chemical simulation and machine learning to discover
             new materials for Lithium-ion batteries. This summer, I am participating in 
             in Google Summer of Code to develop new tools for analyzing electrolyte
