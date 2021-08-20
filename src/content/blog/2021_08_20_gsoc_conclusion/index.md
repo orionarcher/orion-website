@@ -6,7 +6,7 @@ author: "Orion Cohen"
 date: "2020-08-20"
 ---
 
-Yesterday, I pushed solvation_analysis to PyPI, the culmination of a summer of work and my first python package. This is the story of my Google Summer of Code written in the language of Pull Requests. 
+Yesterday, I pushed [solvation_analysis](https://pypi.org/project/solvation-analysis/) to PyPI, the culmination of a summer of work and my first python package. This is the story of my Google Summer of Code written in the language of Pull Requests. 
 
 ---
 
