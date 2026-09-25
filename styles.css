@@ -1,5 +1,5 @@
 :root { color-scheme: light; }
-body { max-width: 660px; margin: 64px auto; padding: 0 20px; }
+body { font-size: 18px; max-width: 660px; margin: 64px auto; padding: 0 20px; }
 @media (max-width: 600px) {
   body { margin: 28px auto; }
 }
